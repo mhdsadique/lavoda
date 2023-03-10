@@ -52,31 +52,4 @@ If you have any feedback, please reach out to me at sj461898@gmail.com
 Lovoda is one of the most popular online marts. Necklaces, Rings, Bracelets, etc all these types of fashionable products you can buy here.
 
 
-
-
-1.  we assign the task to each student.
-
-
-
-
-## Assign task:
-Here is the students name & there assign task:-
-
-- Nitesh :- Homepage & Navbar -
-               Nitesh has completed the HTML navbar part and homepage in 3 days
-                             
-        
-- Sadipe :- cart page 
-                 He also complated in 3 days        
-
-- Waris :- necklace & Ring part - 
-                    He also complated in 3 days
-
-- SHIVAJI :- Checkout page & Payment page -
-                       We all completed the project in 3 days
-                                    
-- Shital :- Signin/Login - 
-                  Shital completed the sign in page of both HTML & css part in 3 days    
-
-
                                 
